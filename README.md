@@ -1,6 +1,5 @@
 ### Hi there  eu  sou o lusi !!
-
-- 🌱 I’m currently learning front-end e back -end
+- 🌱 I’m currently learning front-end.
 - ⚡ Fun fact: eu amo café ☕
 
 <div align="center">
