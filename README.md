@@ -18,7 +18,3 @@
  
  <a href="https://discord.com/channels/887348338830221312/887348339744604212" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/lucas-ubiratan-023167207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1br1J7J6eiiUyRNdcigr2M?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
- 
-</div>
