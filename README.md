@@ -1,7 +1,11 @@
-### Ola eu sou o lusi !! 🖖
-- 👨‍🎓 Sou estudante de graduação em Engenharia Eletronica.
-- ❤️ eu amo café ☕
-- nos revelamos mais por atos do que por pralavras
+  <h1>Ola eu sou o lusi !! 🖖</h1>  
+  <ul>
+    <li>- 👨‍🎓 Sou estudante de graduação em Engenharia Eletronica.</li>
+    <li>- ❤️ eu amo café ☕</li>
+    <li>- nos revelamos mais por atos do que por pralavras</li>
+  </ul>
+  
+
 
 <div align="center">
   <a href="https://github.com/lusiimper">
