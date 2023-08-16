@@ -1,6 +1,7 @@
-### Hi there  eu  sou o lusi !!
-- 🌱 I’m currently learning front-end.
-- ⚡ Fun fact: eu amo café ☕
+### Ola eu sou o lusi !! 🖖
+- 👨‍🎓 Sou estudante de graduação em Engenharia Eletronica.
+- ❤️ eu amo café ☕
+- nos revelamos mais por atos do que por pralavras
 
 <div align="center">
   <a href="https://github.com/lusiimper">
